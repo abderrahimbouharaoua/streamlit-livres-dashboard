@@ -1,6 +1,6 @@
-streamlit
 pandas
 matplotlib
 requests
 beautifulsoup4
+streamlit
 lxml
